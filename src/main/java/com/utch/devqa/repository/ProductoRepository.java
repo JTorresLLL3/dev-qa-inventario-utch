@@ -7,3 +7,4 @@ public interface ProductoRepository extends MongoRepository<Producto, String> {
 
     boolean existsBySku(String sku);
 }
+

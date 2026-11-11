@@ -6,3 +6,4 @@ public class DatoDuplicadoException extends RuntimeException {
         super(mensaje);
     }
 }
+
