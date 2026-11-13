@@ -56,3 +56,4 @@ public class ManejadorGlobalExcepciones {
         return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(cuerpo);
     }
 }
+
