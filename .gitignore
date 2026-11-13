@@ -32,3 +32,19 @@ build/
 ### VS Code ###
 .vscode/
 .env
+
+
+### Evidencias y Reportes Locales ###
+evidencias/
+*.doc
+*.docx
+Reporte_*.md
+
+### Evidencias y Reportes Locales ###
+evidencias/
+*.doc
+*.docx
+*.pdf
+Reporte_*.md
+
+.sonar/
