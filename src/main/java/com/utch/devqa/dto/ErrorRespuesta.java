@@ -14,3 +14,4 @@ public record ErrorRespuesta(
         Map<String, String> camposInvalidos
 ) {
 }
+
